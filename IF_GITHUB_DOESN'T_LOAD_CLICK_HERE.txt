@@ -1,4 +1,8 @@
-I noticed github sometimes is taking long to load the file, follow link to view notebook
 
-
-https://nbviewer.jupyter.org/github/Mwaniki25/House_price_prediction/blob/master/hass_house_pred.ipynb
+<!DOCTYPE html>
+<html>
+<head>
+      <title>I noticed github sometimes is taking long to load the file, follow link to view notebook</title>
+   </head>
+<a href="https://nbviewer.jupyter.org/github/Mwaniki25/House_price_prediction/blob/master/hass_house_pred.ipynb">Link</a>
+</html>
